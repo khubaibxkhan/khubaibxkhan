@@ -3,7 +3,9 @@
 </div>
 <br/>
 ###
+
 for freelance work? do reach, [email](mailto:khubaibxkhan22@gmail.com) :)
+
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khubaibxkhan/khubaibxkhan/output/github-contribution-grid-snake-dark.svg">
