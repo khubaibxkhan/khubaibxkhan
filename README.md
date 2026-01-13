@@ -1,7 +1,8 @@
 <div align="center">
-  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/93a00b98-85d9-4d6e-bb3b-cae5637ed466" />
+  <img height="200" alt="image" src="https://github.com/user-attachments/assets/93a00b98-85d9-4d6e-bb3b-cae5637ed466" />
 </div>
 
+for freelance work? do reach, [email](mailto:khubaibxkhan22@gmail.com) :)
 
 ###
 
